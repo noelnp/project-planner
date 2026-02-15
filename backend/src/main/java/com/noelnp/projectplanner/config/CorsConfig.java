@@ -3,6 +3,6 @@ package com.noelnp.projectplanner.config;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class WebClientConfig {
+public class CorsConfig {
 
 }
